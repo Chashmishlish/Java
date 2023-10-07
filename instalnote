@@ -1,7 +1,21 @@
-➠ INSTAL JAVA 
+➠ INSTAL JAVA in Window Operating System 
+
 🔵 go to google chrome and search 
-🔵 Oracle 
+🔵 Oracle Java (https://www.oracle.com/java/)
+🔵 Download the latest version of JAVA
+🔵 when it is downloaded in your system go to cmd 
+  and write java over there then press enter
+🔵 in the next line for more confirmation you write java --version
+
 🟡 Java development Kit (JDK) ---- Oracle 
+
+➠ CODE EDITOR FOR JAVA
 🔵 Code Editor (IDE ---- Integrated developement environment)
 ↪ VS Code, Intelly, eclipse.
 
+➠ SET-UP INTELIJ IDEA FOR JAVA
+🔵 Go to --- https://www.jetbrains.com/idea/
+Download it for Community version for windows
+
+➠ SET-UP ECLIPSE FOR JAVA
+🔵 Go to --- https://www.eclipse.org/downloads/
